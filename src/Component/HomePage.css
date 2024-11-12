@@ -1,0 +1,22 @@
+.home-page {
+  text-align: center;
+  padding: 20px;
+  position: relative;
+  z-index: 1; /* Ensure content appears above the background image */
+}
+ 
+.home-page h1 {
+  font-size: 36px;
+  color: #333;
+  font-family: 'monotype corsiva';
+}
+ 
+.home-page p {
+  font-size: 18px;
+  color: #666;
+}
+ 
+.home-page .btn {
+  margin-top: 20px;
+}
+
